@@ -3,7 +3,7 @@
   🔍 Exploring the intersection of tech, art, and business  
   🎓 CIS major @ UofSC | Media Arts & Biz Info Systems minor  
   💾 Passionate about coding, UI/UX, and indie game dev  
-  🚀 Currently building something awesome!  
+  🌱 Currently building something awesome!  
 
 
 ## 💻 Tech Stack:
